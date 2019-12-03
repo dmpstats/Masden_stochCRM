@@ -1,4 +1,4 @@
-#Stochastic Collision Risk Modelling (sCRM)
+# Stochastic Collision Risk Modelling (sCRM)
 
 This repo is initialised with the code from Masden's (2015) work for marine scotland, which can be found here:
 https://data.marine.gov.scot/dataset/developing-avian-collision-risk-model-incorporate-variability-and-uncertainty-r-code
