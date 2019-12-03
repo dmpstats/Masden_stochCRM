@@ -1,0 +1,20 @@
+
+> print(run.time)
+Time difference of 7.68093 secs
+
+> print(paste("The model ran", iter,"iterations", sep=" "))
+[1] "The model ran 10 iterations"
+
+> print("The following species were modelled:")
+[1] "The following species were modelled:"
+
+> print(CRSpecies)
+[1] "Black_legged_Kittiwake"
+
+> print("The following turbines were modelled:")
+[1] "The following turbines were modelled:"
+
+> print(TurbineData$TurbineModel)
+[1] 8
+
+> sink()
