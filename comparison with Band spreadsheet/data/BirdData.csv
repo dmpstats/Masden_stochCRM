@@ -1,0 +1,13 @@
+Species,AvoidanceBasic,AvoidanceBasicSD,AvoidanceExtended,AvoidanceExtendedSD,Body_Length,Body_LengthSD,Wingspan,WingspanSD,Flight_Speed,Flight_SpeedSD,Nocturnal_Activity,Nocturnal_ActivitySD,Flight,Prop_CRH_Obs,Prop_CRH_ObsSD
+Northern_Fulmar,,,,,,,,,,,,,,,
+Northern_Gannet,0.98,,0.98,,0.94,0.00001,1.72,0.00001,14.9,0.00001,0.5,0.00001,Gliding,0.0828,0.00001
+Lesser_Black_Backed_Gull,,,,,,,,,,,,,,,
+Herring_Gull,,,,,,,,,,,,,,,
+Great_Black_backed_Gull,,,,,,,,,,,,,,,
+Black_legged_Kittiwake,,,,,,,,,,,,,,,
+Common_Guillemot,,,,,,,,,,,,,,,
+Razorbill,,,,,,,,,,,,,,,
+Little_Auk,,,,,,,,,,,,,,,
+Atlantic_Puffin,,,,,,,,,,,,,,,
+Arctic_Skua,,,,,,,,,,,,,,,
+Great_Skua,,,,,,,,,,,,,,,
