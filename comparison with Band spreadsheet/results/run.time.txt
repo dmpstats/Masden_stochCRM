@@ -1,0 +1,6 @@
+Time difference of 7.786175 secs
+[1] "The model ran 2 iterations"
+[1] "The following species were modelled:"
+[1] "Northern_Gannet"
+[1] "The following turbines were modelled:"
+[1] 4

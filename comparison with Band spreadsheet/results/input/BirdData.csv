@@ -1,0 +1,13 @@
+"","Species","AvoidanceBasic","AvoidanceBasicSD","AvoidanceExtended","AvoidanceExtendedSD","Body_Length","Body_LengthSD","Wingspan","WingspanSD","Flight_Speed","Flight_SpeedSD","Nocturnal_Activity","Nocturnal_ActivitySD","Flight","Prop_CRH_Obs","Prop_CRH_ObsSD"
+"Northern_Fulmar","Northern_Fulmar",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA
+"Northern_Gannet","Northern_Gannet",0.98,NA,0.98,NA,0.94,1e-05,1.72,1e-05,14.9,1e-05,0.5,1e-05,"Gliding",0.0828,1e-05
+"Lesser_Black_Backed_Gull","Lesser_Black_Backed_Gull",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA
+"Herring_Gull","Herring_Gull",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA
+"Great_Black_backed_Gull","Great_Black_backed_Gull",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA
+"Black_legged_Kittiwake","Black_legged_Kittiwake",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA
+"Common_Guillemot","Common_Guillemot",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA
+"Razorbill","Razorbill",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA
+"Little_Auk","Little_Auk",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA
+"Atlantic_Puffin","Atlantic_Puffin",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA
+"Arctic_Skua","Arctic_Skua",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA
+"Great_Skua","Great_Skua",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"",NA,NA
