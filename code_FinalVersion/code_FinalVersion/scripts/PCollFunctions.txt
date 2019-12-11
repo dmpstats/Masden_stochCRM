@@ -20,7 +20,7 @@ pcoll = function (r,phi, updown) {
  
  ifelse(species.dat$Flight == "Flapping", 
  sampledWingSpan-> Wingspan2, 
- sampledWingspan * abs(cos(phi))->  Wingspan2)
+ sampledWingSpan * abs(cos(phi))->  Wingspan2)
  
  
  multiplier = TurbineData$Blades[t] * omega /(2 * pi * sampledbirdSpeed[i])
