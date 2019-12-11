@@ -560,7 +560,11 @@ sink()
   
   bind_cols(masdenEstimates, bandEstimates) %>% mutate(diffs1 = Option1 - Option1_Avoidance98,
                                                        diffs2 = Option2 - Option2_Avoidance98,
-                                                       diffs3 = Option3 - Option3_Avoidance98)
+                                                       diffs3 = Option3 - Option3_Avoidance98,
+                                                       propBias1 = diffs1/Option1_Avoidance98,
+                                                       propBias2 = diffs2/Option2_Avoidance98,
+                                                       propBias3 = diffs3/Option3_Avoidance98
+                                                       )
   
   
   
