@@ -1,4 +1,4 @@
-Time difference of 6.149498 secs
+Time difference of 5.672866 secs
 [1] "The model ran 2 iterations"
 [1] "The following species were modelled:"
 [1] "Northern_Gannet"
