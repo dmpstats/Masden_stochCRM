@@ -19,7 +19,7 @@ Fixes for some non-trivial bugs found in the course of the above work are propag
     * a file `BandMode_comparison_file.R` based on Masden's `BandModel.r` but with parameters to match the spreadsheet
     * files within the _data/_ directory that also replicate the values in the Band spreadsheet
 
-In short, you can run `BandMode_comparison_file.R` and it will present the collision estimates and compare them to those from teh Band spreadsheet. At this juncture (after some minor fixes as propagated to the main code files in code_FinalVersion/ on 11/12/19) there seems to be a quite consistent small downwards bias on the estimates of about -0.7%.
+In short, you can run `BandMode_comparison_file.R` and it will present the collision estimates and compare them to those from the Band spreadsheet. At this juncture (after some minor fixes as propagated to the main code files in code_FinalVersion/ on 11/12/19) there seems to be a quite consistent small downwards bias on the estimates of about -0.7%.
 
 # References:
 Masden, E. (2015) Developing an avian collision risk model to incorporate variability and uncertainty. [R computer code]
