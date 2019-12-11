@@ -1,6 +1,6 @@
 sampleCount <- function(meancount, sdcount){
   
-  rtnorm(1, meancount, sdcount,0,2)
+  rtnorm(1, meancount, sdcount,0)
   
 }
 
