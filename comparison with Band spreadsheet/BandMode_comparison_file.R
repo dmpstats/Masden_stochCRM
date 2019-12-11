@@ -546,3 +546,28 @@ print("The following turbines were modelled:")
 print(TurbineData$TurbineModel)
 sink()
 
+
+
+# Comparision with Band model outputs -------------------------------------
+
+  library(tidyverse)
+
+  masdenEstimates <- bind_cols(monthlySummaryOpt1, monthlySummaryOpt2, monthlySummaryOpt3) %>%
+                          select(Month, Mean, Mean1, Mean2) %>% rename(Option1 = Mean, Option2 = Mean1, Option3 = Mean2)
+  
+  # pre-prepared by running Final_Report_SOSS02_Band5SpreadsheetWorkedExample1.xlsm
+  bandEstimates <- read_csv("band_estimates_gannet.csv")
+  
+  bind_cols(masdenEstimates, bandEstimates) %>% mutate(diffs1 = Option1 - Option1_Avoidance98,
+                                                       diffs2 = Option2 - Option2_Avoidance98,
+                                                       diffs3 = Option3 - Option3_Avoidance98)
+  
+  
+  
+  
+                        
+                        
+
+  
+
+
