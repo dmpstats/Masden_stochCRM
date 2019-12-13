@@ -1,0 +1,13 @@
+Species,AvoidanceBasic,AvoidanceBasicSD,AvoidanceExtended,AvoidanceExtendedSD,Body_Length,Body_LengthSD,Wingspan,WingspanSD,Flight_Speed,Flight_SpeedSD,Nocturnal_Activity,Nocturnal_ActivitySD,Flight,Prop_CRH_Obs,Prop_CRH_ObsSD
+Northern_Fulmar,,,,,0.48,,1.07,,13,,0.75,,Gliding,0.01,
+Northern_Gannet,0.98,,0.98,,0.94,0.005,1.72,0.04,14.9,1.5,0.25,0.0045,Flapping,0.16,0.009
+Lesser_Black_Backed_Gull,,,,,0.58,,1.42,,9.95,,0.5,,Flapping,0.36,
+Herring_Gull,,,,,0.6,,1.44,,9.9,,0.5,,Flapping,0.36,
+Great_Black_backed_Gull,,,,,0.71,,1.58,,13,,0.5,,Flapping,0.32,
+Black_legged_Kittiwake,0.9893,0.0007,0.9672,0.0018,0.39,0.005,1.08,0.04,7.26,1.5,0.033,0.0045,Flapping,0.06,0.009
+Common_Guillemot,,,,,0.4,,0.67,,19.1,,0.25,,Flapping,0.04,
+Razorbill,,,,,0.38,,0.66,,16,,0,,Flapping,0.07,
+Little_Auk,,,,,0.18,,0.44,,17.66,,0,,Flapping,0.02,
+Atlantic_Puffin,,,,,0.28,,0.55,,17.6,,0,,Flapping,0.002,
+Arctic_Skua,,,,,0.44,,1.18,,13.3,,0,,Flapping,0.008,
+Great_Skua,,,,,0.56,,1.36,,14.9,,0,,Flapping,0.076,
