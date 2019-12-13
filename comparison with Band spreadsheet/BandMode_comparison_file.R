@@ -40,6 +40,15 @@ TideOff = 2.5
 windSpeedMean<- 9.9
 windSpeedSD<- 0.000001
 
+#' Band parameterisation for option 3
+#' Masden code uses a wind-speed-pitch function to determine rotor speed
+#' For comparability with the Band spreadsheet, this must be avoided
+#' Setting this to "T" here will source a different version of the 
+#' function "pcoll". This is sourced in the same place as in the original code
+#' within the option2.txt file
+
+bandParameterisation <- T
+
 ##################NO MORE INPUTS REQUIRED##########################################
 #############DO NOT ALTER CODE BELOW THIS LINE#####################################
 
