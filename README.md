@@ -13,8 +13,8 @@ Fixes for some non-trivial bugs found in the course of the above work are propag
 
 ## Contents
 
-* There is the original Masden code (in code_FinalVersion/code_FinalVersion as per the unzipped files).
-* The folder stochCRM_developmental has the Masden code as a basis, with the minimum changes required to match the Band spreadsheet. It's anticipated developmental work of any note will occur here. 
+* There is the (almost) original Masden code (in code_FinalVersion/code_FinalVersion as per the unzipped files).
+* The folder stochCRM_developmental has this Masden code as a basis, similarly with the minimum changes required to match the Band spreadsheet. It's anticipated developmental work of any note will occur here. 
 * The folder _comparison with Band spreadsheet_ contains:
     * a copy of the Masden code with the minimum of fixes to get comparability with the Band spreadsheet
     * a copy of the Band spreadsheet, set to caclulate for Northern Gannets
